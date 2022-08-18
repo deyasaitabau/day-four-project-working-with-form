@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <p>
+        vegetarian<input type="radio" name="mode of feeding" value="vegetarian"
+        </p>
+        <p></p>
+        non-vegetarian<input type="radio" name="mode of feeding" value="non-vegetarian"
+        <p></p>
+        what is your profesion:
+        <p></p>
+        <p>
+        <input type ="checkbox">teaching
+        </p>
+        <p>
+        <input type ="checkbox">research
+        </p>
+        <p>
+        <input type ="checkbox">medicine
+        </p>
+        <p>
+        <input type ="checkbox">engineering
+        </p>
+        <p>
+        <input type ="checkbox">oclerical
+        </p>
+        <p>
+        <input type ="checkbox">business
+        </p>
+        <p>
+        <input type ="checkbox">other
+        </p>
+        comment on type of food you like:<input type="text">
+        <p></p>
+        first name:<input type="text" name="first name">
+        <p>
+            last name:<input type="text" name="last name">
+        </p>
+        email:<input type="text" name="email"
+        <p></p>
+        
+        male:<input type="radio" name="sex" value="male"
+        <p></p>
+        female:<input type="radio" name="sex" value="female"
+        <p></p>
+    <button type="submit">submit</button>
+    <button typ">reset</button>
+    </body>
+</html>
